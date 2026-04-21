@@ -225,12 +225,12 @@
               var vturbvideoId = "69d419ab76c2115ad8e75e07";
               var compKey = "d938507";
               const twr = false;
-              var SECONDS_TO_DISPLAY = 1160;
+              var SECONDS_TO_DISPLAY = 1100;
               var attempts = 0;
               var elsDisplayed = false;
               var isWatchingSmartplayer = false;
               var isWatchingVturbV2 = false;
-              var alreadyDisplayedKey = 'alreadyElsDisplayed1160';
+              var alreadyDisplayedKey = 'alreadyElsDisplayed1100';
               var alreadyElsDisplayed = localStorage?.getItem(alreadyDisplayedKey);
 
               var showHiddenElements = function () {
